@@ -1,4 +1,4 @@
-package Tutorial.LinkedList;
+package LinkedList;
 
 public class DoublelyLL {
 
